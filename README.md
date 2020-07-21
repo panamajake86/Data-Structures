@@ -1,5 +1,5 @@
 # Data Structures 
- 
+
 Topics:
  * Singly Linked Lists
  * Queues and Stacks
